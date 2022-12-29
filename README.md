@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @lekhachien4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lekhachien4/lekhachien4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Helo
+#  Nguồn-Hồ sơ-Html-Animation-V4
+<h4>Đây là mã nguồn giới thiệu thông tin bản thân phiên bản IV của tôi, được viết bằng Css/Html/Javascript</h4>
+<h4>Mọi quyền sở hữu thuộc tên @Lekhachien</k4>
